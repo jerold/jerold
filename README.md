@@ -1,13 +1,10 @@
 # Hi there, I'm Jerold! 👋
 
-Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 I am a Senior Software Engineer with 15+ years of experience in tech. I possess a proven ability to deliver across full-stack development, encompassing Web (Dart, TypeScript), Mobile (Flutter, Swift, Kotlin), and Server-side (Java, Kotlin, Go) technologies. My expertise is in responsive ui construction, state management, as well as API design and versioning, with robust testing (Golden Toolkit, Puppeteer) and observability practices (Firebase Crashlytics, Splunk, OpenTelemetry, NewRelic, Grafana).
 
-## Contributions on my other github account: [jeroldalbertson-wf](https://github.com/jeroldalbertson-wf)
-[![jeroldalbertson-wf Contributions](https://ghchart.rshah.org/jeroldalbertson-wf)](https://github.com/jeroldalbertson-wf)
-
-## Languages and tech I use pretty frequently at work:
+## Languages and frameworks I use:
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="55" height="55"/>
@@ -47,5 +44,8 @@ You might be noticing a trend… When I get into a puzzle game I tend to want to
 
 ### [Catan Helper](https://jerold.github.io/Catan)
 Yup, another Helper. Although it generates a random board when loaded, you can reset the board to one you might be about to play, and this helper will take into account the odds of a resource tile being rolled during the game and suggest some possibly fortuitous starting locations for your first two buildings.
+
+## Contributions on my other github account: [jeroldalbertson-wf](https://github.com/jeroldalbertson-wf)
+[![jeroldalbertson-wf Contributions](https://ghchart.rshah.org/jeroldalbertson-wf)](https://github.com/jeroldalbertson-wf)
 
 Feel free to reach out if you have any questions or would like to collaborate!
