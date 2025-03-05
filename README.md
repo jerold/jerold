@@ -4,14 +4,14 @@
 
 I am a Senior Software Engineer with 15+ years of experience in tech. I possess a proven ability to deliver across full-stack development, encompassing Web (Dart, TypeScript), Mobile (Flutter, Swift, Kotlin), and Server-side (Java, Kotlin, Go) technologies. My expertise is in responsive ui construction, state management, as well as API design and versioning, with robust testing (Golden Toolkit, Puppeteer) and observability practices (Firebase Crashlytics, Splunk, OpenTelemetry, NewRelic, Grafana).
 
-## Languages and frameworks I use:
+## I work in stacks that use these languages and frameworks
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
